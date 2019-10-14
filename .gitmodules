@@ -3,7 +3,7 @@
 	url = https://github.com/ucb-bar/berkeley-hardfloat.git
 [submodule "torture"]
 	path = torture
-	url = https://github.com/ucb-bar/riscv-torture.git
+	url = https://github.com/miniskar/riscv-torture.git
 [submodule "chisel3"]
 	path = chisel3
 	url = https://github.com/ucb-bar/chisel3.git
